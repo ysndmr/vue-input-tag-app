@@ -1,7 +1,7 @@
 # vue-input-tag-app
 vuejs input tag component
 
-Demo : http://ysndmr.com/vue-input-tag-app/index.html
+Demo : http://ysndmr.com/vue-input-tag-app/
 
 This app, you can use input tag application for your projects. Only one vue component file in this project. "Enter", "Tab" and "Backspace" key also suitable for use.
 
