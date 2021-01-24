@@ -75,7 +75,6 @@ export default {
 		removeTag(event, index) {
 			if (index == undefined) {
 				if (event.target.value <= 0) {
-					console.log(event.target.value)
 					this.tags.splice(this.tags.length - 1, 1)
 				}
 			} else {
