@@ -181,8 +181,8 @@ export default {
 	animation-name: shakeError;
 	animation-fill-mode: forwards;
 	animation-duration: .6s;
-	animation-timing-function: ease-in-out;
 	border: 1px solid red;
+	animation-timing-function: ease-in-out;
 }
 .slide-fade-enter-active {
 	transition: all .5s ease;
